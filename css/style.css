@@ -4,9 +4,12 @@ body{
     height: 100%;
 }
 div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    
 }
 ul{
     list-style-type: none;
